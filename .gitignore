@@ -1,0 +1,8 @@
+.idea/
+app_sf3/*
+app_sf4/*
+*.DS_Store
+app/*
+docker/mysql/data/*
+docker/nginx/logs/*
+!.gitkeep
